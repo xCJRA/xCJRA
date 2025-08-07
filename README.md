@@ -15,7 +15,7 @@ Soy **Desarrollador Full Stack** con más de 3 años de experiencia, especializa
 ## 💼 Experiencia profesional
 
 ### 🏢 Zora Systems – *Desarrollador Full Stack*  
-📍 Santa Fe, CDMX · 🗓️ Abril 2022 – Abril 2025  
+📍 Santa Fe, CDMX · 🗓️ Abril 2022 – Actualidad  
 - Desarrollo y mantenimiento de **APIs** escalables.  
 - Integración de **pasarelas de pago** (Stripe, Toku).  
 - Generación automática de **PDFs desde templates HTML** para tickets POS.  
