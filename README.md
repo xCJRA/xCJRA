@@ -1,34 +1,80 @@
-# 👋 Hola, soy César
+# 👋 ¡Hola! Soy César Reyes Alonso
 
-🎯 Desarrollador de software con enfoque en soluciones web y lógica de programación eficiente.
-
-💻 Actualmente trabajando en proyectos con **React**, **PHP**, **Yii 1.1**, **Laravel**, **Java**, y **MySQL**.  
-🧠 Apasionado por aprender nuevas tecnologías, mejorar sistemas legados y desarrollar soluciones creativas.
-
-## 🚀 Habilidades principales
-
-- ⚙️ Lenguajes: `PHP`, `JavaScript`, `Java`, `C#` 
-- 🧱 Frameworks: `Yii 1.1`, `Laravel`, `Spring boot` 
-- 🗄️ Base de datos: `MySQL`, `MSSQL`
-- 🔧 Herramientas: `Git`, `VS Code`, `Linux`, `XAMPP`, `Netbeans` 
-
-## 📂 Algunos proyectos destacados
-
-- 🛒 **Sistema de reservas con React + PHP** – Reserva de clases, carrito de compras y pagos en línea.
-- 🗃️ **Mantenimientos en sistemas heredados con Yii 1.1** – Refactorización y optimización de código antiguo.
-- 📊 **Paneles administrativos** – CRUDs robustos con lógica personalizada para múltiples clientes.
-
-## 🌱 Actualmente aprendiendo
-
-- 🔄 Refactorización de legacy code en Yii
-- ⚡ Laravel y Clean Architecture
-- 🎓 Mejora continua en lógica de programación avanzada
-
-## 🤝 ¿Quieres colaborar?
-
-Estoy abierto a colaborar en proyectos interesantes o ayudarte con refactorizaciones complejas.  
-📩 **Contáctame:** [cesarjreyesa1@gmail.com]  
-🌐 Visita mi portafolio: [xCJRADev.com] *(WIP)*
+Soy **Desarrollador Full Stack** con más de 3 años de experiencia, especializado en el desarrollo de aplicaciones web robustas y escalables usando **PHP (Yii y Laravel)**, **MySQL** y tecnologías modernas de frontend como **React**.
 
 ---
 
+## 🚀 Acerca de mí
+
+🎯 Apasionado por optimizar sistemas heredados y crear soluciones eficientes desde cero.  
+🔧 Experiencia comprobada integrando **APIs**, **pasarelas de pago** (Stripe, Toku) y **contratos digitales (DocuSign)**.  
+🧠 En constante aprendizaje y evolución, con enfoque en clean code y buenas prácticas.
+
+---
+
+## 💼 Experiencia profesional
+
+### 🏢 Zora Systems – *Desarrollador Full Stack*  
+📍 Santa Fe, CDMX · 🗓️ Abril 2022 – Abril 2025  
+- Desarrollo y mantenimiento de **APIs** escalables.  
+- Integración de **pasarelas de pago** (Stripe, Toku).  
+- Generación automática de **PDFs desde templates HTML** para tickets POS.  
+- Soporte técnico y mejoras continuas para clientes.  
+- Integración de contratos digitales con **DocuSign**.
+
+### 🏛️ H. Ayuntamiento de Tepotzotlán – *Desarrollador Base de datos SQL*  
+📍 Tepotzotlán, México · 🗓️ Ene 2020 – Ago 2020  
+- Diseño y desarrollo de base de datos para el área administrativa.  
+- Sistema de reportes para análisis y toma de decisiones.
+
+### 🏥 Hospital Regional de Alta Especialidad – *Desarrollador Backend PHP*  
+📍 Zumpango, México · 🗓️ Ene 2020 – Ago 2020  
+- Sistema web para registro de incidencias hospitalarias.  
+- Mejora de procesos internos mediante soluciones a medida.
+
+---
+
+## 🛠️ Tech Stack
+
+**Lenguajes:**  
+`PHP` · `JavaScript` · `Java` · `C#` · `SQL`
+
+**Frameworks y herramientas:**  
+`Yii 1.1` · `Laravel` · `React` · `Bootstrap` · `HTML/CSS`  
+`MySQL` · `SQL Server (básico)` · `Git` · `XAMPP`
+
+**Extras:**  
+- Generación de reportes PDF desde HTML  
+- Integración de APIs RESTful  
+- Detección y resolución de bugs
+
+---
+
+## 📈 Algunos proyectos personales y profesionales
+
+- 🛒 **Sistema de reservas online** – React + PHP + Stripe
+- 📃 **Generador de PDFs POS** – HTML templates a documentos impresos
+- 📋 **Sistema de incidencias hospitalarias** – Backend PHP + MySQL
+- 🧾 **Módulo de reportes administrativos** – SQL avanzado + PHP
+
+*(En proceso de liberar repos públicos... pronto disponibles)*
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- 🧼 Refactorización de código legado en Yii
+- 🌐 Laravel avanzado y patrones de arquitectura limpia
+- 🧠 Mejora de habilidades en Java y estructuras de datos
+
+---
+
+## 📫 Conéctate conmigo
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/xCJRA/)
+- 📧 cesarjreyesa1@gmail.com
+- 📍 Zumpango, México
+
+---
+
+> _“Mejorar un sistema heredado es como limpiar una casa con historia: detrás de cada rincón hay algo por descubrir y mejorar.”_
