@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy César Reyes Alonso
+# 👋 ¡Hola! Soy César Reyes
 
 Soy **Desarrollador Full Stack** con más de 3 años de experiencia, especializado en el desarrollo de aplicaciones web robustas y escalables usando **PHP (Yii y Laravel)**, **MySQL** y tecnologías modernas de frontend como **React**.
 
