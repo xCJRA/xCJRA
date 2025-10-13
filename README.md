@@ -44,28 +44,14 @@ Soy **Desarrollador Full Stack** con más de 3 años de experiencia, especializa
 `MySQL` · `SQL Server (básico)` · `Git` · `XAMPP`
 
 **Extras:**  
-- Generación de reportes PDF desde HTML  
-- Integración de APIs RESTful  
-- Detección y resolución de bugs
 
 ---
 
 ## 📈 Algunos proyectos personales y profesionales
 
-- 🛒 **Sistema de reservas online** – React + PHP + Stripe
-- 📃 **Generador de PDFs POS** – HTML templates a documentos impresos
-- 📋 **Sistema de incidencias hospitalarias** – Backend PHP + MySQL
-- 🧾 **Módulo de reportes administrativos** – SQL avanzado + PHP
-
-*(En proceso de liberar repos públicos... pronto disponibles)*
-
 ---
 
 ## 🌱 Actualmente aprendiendo
-
-- 🧼 Refactorización de código legado en Yii
-- 🌐 Laravel avanzado y patrones de arquitectura limpia
-- 🧠 Mejora de habilidades en Java y estructuras de datos
 
 ---
 
