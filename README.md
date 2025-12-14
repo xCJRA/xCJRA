@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy César Reyes
 
-Soy **Desarrollador Full Stack** con más de 3 años de experiencia, especializado en el desarrollo de aplicaciones web robustas y escalables usando **PHP (Yii y Laravel)**, **MySQL** y tecnologías modernas de frontend como **React**.
+Soy **Desarrollador Backend** con más de 3 años de experiencia, especializado en el desarrollo de aplicaciones web usando **PHP**, **MySQL**, **Java**, **C#**, **SQL Server**
 
 ---
 
@@ -61,5 +61,3 @@ Soy **Desarrollador Full Stack** con más de 3 años de experiencia, especializa
 - 📍 Zumpango, México
 
 ---
-
-> _“Mejorar un sistema heredado es como limpiar una casa con historia: detrás de cada rincón hay algo por descubrir y mejorar.”_
