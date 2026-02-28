@@ -16,7 +16,7 @@ Soy **Backend Developer** con **más de 3 años de experiencia**, especializado 
 ## 💼 Experiencia profesional
 
 ### 🏢 Zora Systems — *Backend / Full Stack Developer*  
-📍 CDMX (Remoto / Híbrido) · 🗓️ Abril 2022 – Actualidad  
+📍 CDMX (Remoto / Híbrido) · 🗓️ Abril 2022 – Marzo 2026  
 
 - Desarrollo y mantenimiento de **APIs REST** para sistemas internos y plataformas orientadas a clientes.  
 - Integración de **servicios externos** para extender la funcionalidad del sistema y automatizar flujos operativos.  
