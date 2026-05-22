@@ -9,7 +9,7 @@
 
 Backend Developer con **más de 3 años de experiencia** diseñando e integrando APIs REST en entornos de producción. He automatizado procesos críticos de negocio —pagos, facturación electrónica y firmas electrónicas (ESignature)— logrando reducir trabajo manual hasta un **50%** y tiempos de inactividad entre un **40% y 60%**.
 
-- 🎯 Especializado en **facturación electrónica (CFDI)**, **pasarelas de pago** y **firma electrónica** — integrandolos a sistemas funcionales.
+- 🎯 Especializado en **facturación electrónica (CFDI)**, **pasarelas de pago** y **firma electrónica**, integrándolos a sistemas funcionales.
 - 🔧 Experiencia en **integración de APIs externas** (Stripe, MercadoPago, SAT, Twilio) y automatización de flujos operativos.
 - 🧠 Orientado a **clean code**, documentación Swagger/OpenAPI y buenas prácticas de arquitectura REST.
 - 🌍 Disponible para oportunidades **remotas** o **presenciales** (condiciones negociables).
