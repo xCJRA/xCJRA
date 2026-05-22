@@ -7,9 +7,9 @@
 
 ## 🚀 Sobre mí
 
-Backend Developer con **más de 3 años de experiencia** diseñando e integrando APIs REST en entornos de producción. He automatizado procesos críticos de negocio —pagos, facturación electrónica y firmas digitales— logrando reducir trabajo manual hasta un **50%** y tiempos de inactividad entre un **40% y 60%**.
+Backend Developer con **más de 3 años de experiencia** diseñando e integrando APIs REST en entornos de producción. He automatizado procesos críticos de negocio —pagos, facturación electrónica y firmas electrónicas (ESignature)— logrando reducir trabajo manual hasta un **50%** y tiempos de inactividad entre un **40% y 60%**.
 
-- 🎯 Especializado en **facturación electrónica (CFDI)**, **pasarelas de pago** y **firma digital** — dominios de alto valor en el mercado mexicano.
+- 🎯 Especializado en **facturación electrónica (CFDI)**, **pasarelas de pago** y **firma electrónica** — integrandolos a sistemas funcionales.
 - 🔧 Experiencia en **integración de APIs externas** (Stripe, MercadoPago, SAT, Twilio) y automatización de flujos operativos.
 - 🧠 Orientado a **clean code**, documentación Swagger/OpenAPI y buenas prácticas de arquitectura REST.
 - 🌍 Disponible para oportunidades **remotas** o **presenciales** (condiciones negociables).
@@ -30,17 +30,9 @@ Backend Developer con **más de 3 años de experiencia** diseñando e integrando
 📍 Santa Fe, CDMX &nbsp;·&nbsp; 🗓️ Abril 2022 – Marzo 2026
 
 - Resolví incidencias críticas en producción, reduciendo tiempos de inactividad entre un **40% y 60%** mediante diagnóstico rápido y soluciones preventivas.
-- Diseñé e implementé **APIs REST** e integraciones con servicios externos (pagos, facturación electrónica, firmas digitales, generación de PDFs), automatizando procesos clave y reduciendo trabajo manual en **~50%**.
+- Diseñé e implementé **APIs REST** e integraciones con servicios externos (pagos, facturación electrónica, firmas electrónicas, generación de PDFs), automatizando procesos clave y reduciendo trabajo manual en **~50%**.
 - Optimicé consultas en **MySQL** logrando mejoras de rendimiento entre un **30% y 50%** en módulos críticos.
 - Desarrollé funcionalidades a medida con base en requerimientos de clientes, mejorando la eficiencia operativa.
-
----
-
-### 🔹 Hospital Regional de Alta Especialidad — Backend Developer (PHP)
-📍 Zumpango, México &nbsp;·&nbsp; 🗓️ Enero 2019 – Agosto 2019
-
-- Desarrollé un sistema web para el registro y seguimiento de incidencias, mejorando trazabilidad de procesos internos.
-- Colaboré en el análisis de requerimientos con el personal operativo, reduciendo tiempos de gestión.
 
 ---
 
@@ -49,6 +41,14 @@ Backend Developer con **más de 3 años de experiencia** diseñando e integrando
 
 - Diseñé una base de datos para control de registros administrativos.
 - Implementé un sistema de reportes que redujo el tiempo de obtención de información en **~60%**.
+
+---
+
+### 🔹 Hospital Regional de Alta Especialidad — Backend Developer (PHP)
+📍 Zumpango, México &nbsp;·&nbsp; 🗓️ Enero 2019 – Agosto 2019
+
+- Desarrollé un sistema web para el registro y seguimiento de incidencias, mejorando trazabilidad de procesos internos.
+- Colaboré en el análisis de requerimientos con el personal operativo, reduciendo tiempos de gestión.
 
 ---
 
@@ -122,16 +122,6 @@ API que gestiona el ciclo completo de firma electrónica: subida de documentos, 
 - **Arquitectura backend avanzada** — patrones de diseño aplicados a APIs REST
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xCJRA&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCJRA&layout=compact&theme=dark&hide_border=true" height="160" />
-</p>
-
----
-
 ## 📫 Contacto
 
 ¿Tienes un proyecto o posición que requiera experiencia en **APIs REST, integración de sistemas o dominio fiscal/pagos en México**? Hablemos.
