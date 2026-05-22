@@ -7,10 +7,10 @@
 
 ## 🚀 Sobre mí
 
-Backend Developer con **más de 3 años de experiencia** diseñando e integrando APIs REST en entornos de producción. He automatizado procesos críticos de negocio —pagos, facturación electrónica y firmas electrónicas (ESignature)— logrando reducir trabajo manual hasta un **50%** y tiempos de inactividad entre un **40% y 60%**.
+Backend Developer con más de 3 años de experiencia trabajando con APIs REST en entornos de producción, principalmente en el ecosistema PHP/Laravel. He integrado sistemas de pagos, facturación electrónica y firma electrónica en proyectos reales.
 
 - 🎯 Especializado en **facturación electrónica (CFDI)**, **pasarelas de pago** y **firma electrónica**, integrándolos a sistemas funcionales.
-- 🔧 Experiencia en **integración de APIs externas** (Stripe, MercadoPago, SAT, Twilio) y automatización de flujos operativos.
+- 🔧 Experiencia en **integración de APIs externas** (Stripe, MercadoPago, Twilio) y automatización de flujos operativos.
 - 🧠 Orientado a **clean code**, documentación Swagger/OpenAPI y buenas prácticas de arquitectura REST.
 - 🌍 Disponible para oportunidades **remotas** o **presenciales** (condiciones negociables).
 
@@ -29,10 +29,10 @@ Backend Developer con **más de 3 años de experiencia** diseñando e integrando
 ### 🔹 Zora Systems — Backend Developer (PHP)
 📍 Santa Fe, CDMX &nbsp;·&nbsp; 🗓️ Abril 2022 – Marzo 2026
 
-- Resolví incidencias críticas en producción, reduciendo tiempos de inactividad entre un **40% y 60%** mediante diagnóstico rápido y soluciones preventivas.
-- Diseñé e implementé **APIs REST** e integraciones con servicios externos (pagos, facturación electrónica, firmas electrónicas, generación de PDFs), automatizando procesos clave y reduciendo trabajo manual en **~50%**.
-- Optimicé consultas en **MySQL** logrando mejoras de rendimiento entre un **30% y 50%** en módulos críticos.
-- Desarrollé funcionalidades a medida con base en requerimientos de clientes, mejorando la eficiencia operativa.
+- Atendí incidencias en producción, contribuyendo a reducir tiempos de inactividad mediante diagnóstico y soluciones puntuales.
+- Participé en el diseño e implementación de **APIs REST** e integraciones con servicios externos (pagos, facturación electrónica, firmas electrónicas, generación de PDFs).
+- Apliqué mejoras en consultas **MySQL** que resultaron en un mejor rendimiento en módulos de uso frecuente.
+- Desarrollé funcionalidades a medida con base en requerimientos de clientes.
 
 ---
 
@@ -40,15 +40,15 @@ Backend Developer con **más de 3 años de experiencia** diseñando e integrando
 📍 Tepotzotlán, México &nbsp;·&nbsp; 🗓️ Enero 2020 – Agosto 2020
 
 - Diseñé una base de datos para control de registros administrativos.
-- Implementé un sistema de reportes que redujo el tiempo de obtención de información en **~60%**.
+- Implementé un sistema de reportes para agilizar la consulta de información interna.
 
 ---
 
 ### 🔹 Hospital Regional de Alta Especialidad — Backend Developer (PHP)
 📍 Zumpango, México &nbsp;·&nbsp; 🗓️ Enero 2019 – Agosto 2019
 
-- Desarrollé un sistema web para el registro y seguimiento de incidencias, mejorando trazabilidad de procesos internos.
-- Colaboré en el análisis de requerimientos con el personal operativo, reduciendo tiempos de gestión.
+- Desarrollé un sistema web para el registro y seguimiento de incidencias internas.
+- Colaboré en el análisis de requerimientos con el personal operativo.
 
 ---
 
@@ -69,7 +69,6 @@ Backend Developer con **más de 3 años de experiencia** diseñando e integrando
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -82,49 +81,48 @@ Backend Developer con **más de 3 años de experiencia** diseñando e integrando
 ### 🧾 [API de Facturación Electrónica (CFDI)](https://github.com/xCJRA/laravel-cfdi-api)
 **Stack:** `Laravel 11` · `MySQL` · `Sanctum` · `Swagger`
 
-API REST que simula el flujo completo de generación y consulta de CFDIs (facturas electrónicas mexicanas). Incluye validación de RFC, cálculo automático de IVA, generación de folios UUID y manejo de estados (borrador → emitida → cancelada).
+API REST que simula el flujo de generación y consulta de CFDIs. Incluye validación de RFC, cálculo de IVA, generación de folios UUID y manejo de estados (borrador → emitida → cancelada).
 
-**Lo que demuestra:** Conocimiento del dominio fiscal mexicano · Diseño REST · Autenticación con tokens · Documentación Swagger
+**Cubre:** Dominio fiscal mexicano · Diseño REST · Autenticación con tokens · Documentación Swagger
 
 ---
 
 ### 💳 [Pasarela de Pagos Unificada](https://github.com/xCJRA/laravel-payment-gateway)
 **Stack:** `Laravel 11` · `MySQL` · `Stripe SDK` · `MercadoPago API` · `Swagger`
 
-API que abstrae Stripe y MercadoPago detrás de una interfaz unificada usando el patrón **Strategy**. Un solo endpoint para cobrar, reembolsar y recibir webhooks de ambas pasarelas. Incluye log de auditoría de transacciones.
+API que integra Stripe y MercadoPago detrás de una interfaz común usando el patrón **Strategy**. Soporta cobros, reembolsos y webhooks de ambas pasarelas, con log de auditoría por transacción.
 
-**Lo que demuestra:** Patrón Strategy / Interface · Integración con APIs de pago · Manejo de webhooks · Arquitectura limpia
+**Cubre:** Patrón Strategy · Integración con APIs de pago · Manejo de webhooks · Log de auditoría
 
 ---
 
 ### 📬 [Sistema de Notificaciones Multi-canal](https://github.com/xCJRA/node-notifications-api)
 **Stack:** `Node.js` · `Express` · `MySQL` · `Nodemailer` · `Twilio` · `JWT` · `Swagger`
 
-API en Node.js que recibe notificaciones y las enruta automáticamente por email (Gmail SMTP), WhatsApp (Twilio sandbox) o SMS simulado. Incluye reintentos automáticos (hasta 3 intentos), autenticación JWT e historial filtrable.
+API en Node.js que enruta notificaciones por email (Gmail SMTP), WhatsApp (Twilio sandbox) o SMS simulado. Incluye reintentos automáticos, autenticación JWT e historial filtrable.
 
-**Lo que demuestra:** Node.js funcional · Arquitectura de servicios · Integración de APIs externas · Documentación profesional
+**Cubre:** Node.js · Arquitectura de servicios · Integración de APIs externas · JWT
 
 ---
 
 ### ✍️ [API de Firma Electrónica de Documentos](https://github.com/xCJRA/laravel-firma-digital)
 **Stack:** `Laravel 11` · `MySQL` · `DomPDF` · `Sanctum` · `Swagger`
 
-API que gestiona el ciclo completo de firma electrónica: subida de documentos, registro de firmantes con orden secuencial, validación de tokens, registro de firma con timestamp e IP, y generación del PDF final con tabla de firmas. Tokens con expiración configurable y log de auditoría completo.
+API que gestiona el flujo de firma electrónica: subida de documentos, firmantes con orden secuencial, validación de tokens con expiración, registro de firma con timestamp e IP, y generación del PDF final con tabla de firmas.
 
-**Lo que demuestra:** Lógica de negocio compleja · Manejo de estados · Seguridad con tokens · Generación de PDFs · Dominio de alto valor
+**Cubre:** Manejo de estados · Tokens seguros · Generación de PDFs · Log de auditoría
 
 ---
 
 ## 🌱 Actualmente aprendiendo
 
-- **PostgreSQL** — migrando conocimiento de MySQL a un motor más robusto
+- **PostgreSQL** — ampliando experiencia más allá de MySQL
+- **Docker** — contenedores para entornos de desarrollo reproducibles
 - **GitHub Actions** — CI/CD para automatizar tests y despliegues
-- **Arquitectura backend avanzada** — patrones de diseño aplicados a APIs REST
 
 ---
-## 📫 Contacto
 
-¿Tienes un proyecto o posición que requiera experiencia en **APIs REST, integración de sistemas o dominio fiscal/pagos en México**? Hablemos.
+## 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/xCJRA/)
 - 📧 cesarjreyesa1@gmail.com
