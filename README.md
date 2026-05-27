@@ -78,7 +78,7 @@ Backend Developer con más de 3 años de experiencia trabajando con APIs REST en
 
 ---
 
-### 🧾 [API de Facturación Electrónica (CFDI)](https://github.com/xCJRA/laravel-cfdi-api)
+### 🧾 [API de Facturación Electrónica (CFDI)](https://github.com/xCJRA/api-cfdi)
 **Stack:** `Laravel 11` · `MySQL` · `Sanctum` · `Swagger`
 
 API REST que simula el flujo de generación y consulta de CFDIs. Incluye validación de RFC, cálculo de IVA, generación de folios UUID y manejo de estados (borrador → emitida → cancelada).
@@ -87,7 +87,7 @@ API REST que simula el flujo de generación y consulta de CFDIs. Incluye validac
 
 ---
 
-### 💳 [Pasarela de Pagos Unificada](https://github.com/xCJRA/laravel-payment-gateway)
+### 💳 [Pasarela de Pagos Unificada](https://github.com/xCJRA/api-pagos)
 **Stack:** `Laravel 11` · `MySQL` · `Stripe SDK` · `MercadoPago API` · `Swagger`
 
 API que integra Stripe y MercadoPago detrás de una interfaz común usando el patrón **Strategy**. Soporta cobros, reembolsos y webhooks de ambas pasarelas, con log de auditoría por transacción.
@@ -96,7 +96,7 @@ API que integra Stripe y MercadoPago detrás de una interfaz común usando el pa
 
 ---
 
-### 📬 [Sistema de Notificaciones Multi-canal](https://github.com/xCJRA/node-notifications-api)
+### 📬 [Sistema de Notificaciones Multi-canal](https://github.com/xCJRA/api-notificaciones)
 **Stack:** `Node.js` · `Express` · `MySQL` · `Nodemailer` · `Twilio` · `JWT` · `Swagger`
 
 API en Node.js que enruta notificaciones por email (Gmail SMTP), WhatsApp (Twilio sandbox) o SMS simulado. Incluye reintentos automáticos, autenticación JWT e historial filtrable.
